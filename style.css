@@ -1,5 +1,5 @@
 body {
-    background-color: #AEBDCC;
+    background-color: #6F7479;
 }
 
 .grid-container {
@@ -27,7 +27,7 @@ body {
 .title {
     grid-area: 2 / 1 / span 1 / span 4;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 20px;
     margin-bottom: 20px;
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
@@ -46,7 +46,7 @@ body {
     border: 3px;
     border-style: outset;
     border-radius: 5px;
-    height: 400px;
+    height: 500px;
     background-color: #A9D1FA;
 }
 
@@ -92,4 +92,17 @@ body {
     border-radius: 5px;
     margin-right: 40px;
     background-color: #A9D1FA;
+}
+
+.search {
+    grid-area: 3 / 3 / span 1 / span 1; 
+    margin-left: -100px;   
+}
+
+.input1 {
+    width: 300px;
+    height: 25px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
