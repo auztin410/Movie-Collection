@@ -182,3 +182,51 @@ body {
     background-color: #A9D1FA;
     margin-right: 40px;
 }
+
+.action:hover {
+    border-style: inset;
+}
+
+.adventure:hover {
+    border-style: inset;
+}
+
+.horror:hover {
+    border-style: inset;
+}
+
+.sci-fi:hover {
+    border-style: inset;
+}
+
+.drama:hover {
+    border-style: inset;
+}
+
+.comedy:hover {
+    border-style: inset;
+}
+
+.super-hero:hover {
+    border-style: inset;
+}
+
+.thriller:hover {
+    border-style: inset;
+}
+
+.animation:hover {
+    border-style: inset;
+}
+
+.documentary:hover {
+    border-style: inset;
+}
+
+.fantasy:hover {
+    border-style: inset;
+}
+
+.mystery:hover {
+    border-style: inset;
+}
