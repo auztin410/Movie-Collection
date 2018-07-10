@@ -94,15 +94,3 @@ body {
     background-color: #A9D1FA;
 }
 
-.search {
-    grid-area: 3 / 3 / span 1 / span 1; 
-    margin-left: -100px;   
-}
-
-.input1 {
-    width: 300px;
-    height: 25px;
-    font-size: 18px;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
-}

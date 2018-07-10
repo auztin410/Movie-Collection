@@ -16,7 +16,7 @@ body {
     text-align: center;
     background-color: #A9D1FA;
     border-bottom: 3px;
-    border-style: outset;
+    /* border-style: outset; */
     border-bottom-style: solid;
     border-bottom-color: black;
     border-radius: 3px;
@@ -33,7 +33,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     border: 3px;
-    border-style: outset;
+    /* border-style: outset; */
     border-radius: 5px;
     background-color: #A9D1FA;
     margin-left: 40px;
@@ -62,7 +62,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     border: 3px;
-    border-style: outset;
+    /* border-style: outset; */
     border-radius: 5px;
     background-color: #A9D1FA;
     margin-left: 40px;
