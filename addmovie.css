@@ -52,3 +52,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 }
+
+#slider_value2 {
+    margin-left: 90px;
+}
