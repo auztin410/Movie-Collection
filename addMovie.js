@@ -11,4 +11,5 @@ else{
     console.log("Movie Added Successfully")
 }
 });
+$("#addMovieForm").reset();
 });
